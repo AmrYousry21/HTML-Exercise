@@ -1,0 +1,20 @@
+p
+{
+    text-decoration-style: solid;
+}
+body
+{
+    background-color: aliceblue;
+}
+
+#myHeader
+{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+}
